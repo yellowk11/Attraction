@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Button visually impaired\n"
+"POT-Creation-Date: 2021-09-01 18:45+0300\n"
+"PO-Revision-Date: 2021-09-01 18:45+0300\n"
+"Last-Translator: isvek <bvi@isvek.ru>\n"
+"Language-Team: veks bvi@isvek.ru\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: button-visually-impaired.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"Report-Msgid-Bugs-To:\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: button-visually-impaired.php:41
+#, php-format
+msgid ""
+"<div class=\"notice notice-error is-dismissible\"><p>Для работы плагина "
+"Button visually impaired требуется минимум версия <strong>%1$s</strong> PHP. "
+"У Вас <strong>%2$s</strong>PHP версия.</p></div>"
+msgstr ""
+"<div class=\"notice notice-error is-dismissible\"><p>The Button visually "
+"impaired requires at least <strong>%1$s </strong> PHP version to work. You "
+"have <strong>%2$s </strong> PHP version. </p></div>"
+
+#: include/src/Core/Admin.php:157
+msgid "Внешний вид версии сайта для слабовидящих"
+msgstr "The appearance of the version of the site for the visually impaired"
+
+#: include/src/Core/Admin.php:164
+msgid "Настройки виджета и шорткода"
+msgstr "Widget and shortcode settings"
+
+#: include/src/Core/Admin.php:171 include/src/Core/Admin.php:595
+msgid "Плагин активен"
+msgstr "Plugin is active"
+
+#: include/src/Core/Admin.php:179 include/src/Core/Admin.php:317
+#: include/src/Core/Admin.php:334 include/src/Core/Admin.php:351
+#: include/src/Core/Admin.php:368 include/src/Core/Admin.php:385
+msgid "Нет"
+msgstr "No"
+
+#: include/src/Core/Admin.php:180 include/src/Core/Admin.php:318
+#: include/src/Core/Admin.php:335 include/src/Core/Admin.php:352
+#: include/src/Core/Admin.php:369 include/src/Core/Admin.php:386
+msgid "Да"
+msgstr "Yes"
+
+#: include/src/Core/Admin.php:187 include/src/Core/Admin.php:206
+#: include/src/Core/Admin.php:597
+msgid "Цветовая гамма"
+msgstr "Color spectrum"
+
+#: include/src/Core/Admin.php:195 include/src/Core/Admin.php:214
+msgid "Белым по черному"
+msgstr "White on black"
+
+#: include/src/Core/Admin.php:196 include/src/Core/Admin.php:215
+msgid "Черным по белому"
+msgstr "Black on white"
+
+#: include/src/Core/Admin.php:197 include/src/Core/Admin.php:216
+msgid "Темно-синим по голубому"
+msgstr "Dark blue on blue"
+
+#: include/src/Core/Admin.php:198 include/src/Core/Admin.php:217
+msgid "Коричневым по бежевому"
+msgstr "Brown on beige"
+
+#: include/src/Core/Admin.php:199 include/src/Core/Admin.php:218
+msgid "Зеленым по темно-коричневому"
+msgstr "Green on dark brown"
+
+#: include/src/Core/Admin.php:225 include/src/Core/Admin.php:599
+msgid "Размер шрифта"
+msgstr "Font size"
+
+#: include/src/Core/Admin.php:232
+msgid "Значение в пикселях."
+msgstr "The value is in pixels."
+
+#: include/src/Core/Admin.php:239 include/src/Core/Admin.php:598
+msgid "Шрифт"
+msgstr "Font"
+
+#: include/src/Core/Admin.php:247
+msgid "Без засечек - Arial"
+msgstr "Sans Serif - Arial"
+
+#: include/src/Core/Admin.php:248
+msgid "С засечками - Times New Roman"
+msgstr "Serif - Times New Roman"
+
+#: include/src/Core/Admin.php:255 include/src/Core/Admin.php:600
+msgid "Межбуквенный интервал"
+msgstr "Letter spacing"
+
+#: include/src/Core/Admin.php:264 include/src/Core/Admin.php:282
+msgid "Одинарный"
+msgstr "Single"
+
+#: include/src/Core/Admin.php:265 include/src/Core/Admin.php:283
+msgid "Полуторный"
+msgstr "One and a half"
+
+#: include/src/Core/Admin.php:266 include/src/Core/Admin.php:284
+msgid "Двойной"
+msgstr "Double"
+
+#: include/src/Core/Admin.php:273 include/src/Core/Admin.php:601
+msgid "Междустрочный интервал"
+msgstr "Line spacing"
+
+#: include/src/Core/Admin.php:291 include/src/Core/Admin.php:602
+msgid "Адаптация изображений"
+msgstr "Adapting images"
+
+#: include/src/Core/Admin.php:299
+msgid "Изображения включены"
+msgstr "Images enable"
+
+#: include/src/Core/Admin.php:300
+msgid "Изображения отключены"
+msgstr "Images disabled"
+
+#: include/src/Core/Admin.php:301
+msgid "Серая гамма"
+msgstr "Gray scale"
+
+#: include/src/Core/Admin.php:308 include/src/Core/Admin.php:603
+msgid "Включить перезагрузку страницы"
+msgstr "Enable page reload"
+
+#: include/src/Core/Admin.php:315
+msgid ""
+"При переходе на обычную версию сайта текущая страница будет презагружена."
+msgstr ""
+"When switching to the regular version of the site, the current page will be "
+"reloaded."
+
+#: include/src/Core/Admin.php:325 include/src/Core/Admin.php:604
+msgid "Включить синтез речи"
+msgstr "Enable speech synthesis"
+
+#: include/src/Core/Admin.php:332
+msgid ""
+"Синтезатор речи озвучит вслух изменения настроек отображения, которые "
+"произведёт пользователь."
+msgstr ""
+"The synthesizer will read aloud the changes to the display settings that the "
+"user will make."
+
+#: include/src/Core/Admin.php:342 include/src/Core/Admin.php:605
+msgid "Включить встроенные элементы"
+msgstr "Include inline elements"
+
+#: include/src/Core/Admin.php:349
+msgid ""
+"Встроенные элементы - это компонент HTML-элемента, который позволяет "
+"встраивать документы, видео, карты и интерактивные медиафайлы на страницу."
+msgstr ""
+"Inline elements are a component of an HTML element that allows you to embed "
+"documents, videos, maps, and interactive media into a page."
+
+#: include/src/Core/Admin.php:359 include/src/Core/Admin.php:606
+msgid "Скрыть панель настроек плагина"
+msgstr "Hide plugin settings panel"
+
+#: include/src/Core/Admin.php:366
+msgid ""
+"Панель настроек плагина для пользователя скроется, когда пользователь "
+"включит версию вашего сайта для слабовидящих, в место неё будет выводится "
+"иконка плагина."
+msgstr ""
+"The plugin settings panel for the user will be hidden, when the user turns "
+"on the visually impaired version of your site, the plugin icon will be "
+"displayed in its place."
+
+#: include/src/Core/Admin.php:376 include/src/Core/Admin.php:607
+msgid "Зафиксировать панель настроек плагина в верхней части страницы"
+msgstr "Freeze the plugin settings panel to the top of the page"
+
+#: include/src/Core/Admin.php:383
+msgid ""
+"Панель настроек плагина для пользователя будет зафиксирована в верхней части "
+"при прокрутке страницы."
+msgstr ""
+"The plugin settings panel for the user will be fixed at the top when "
+"scrolling down the page."
+
+#: include/src/Core/Admin.php:393 include/src/Core/Admin.php:608
+msgid "Язык панели"
+msgstr "Panel language"
+
+#: include/src/Core/Admin.php:417
+msgid "Данный текст не применяется в шорткоде."
+msgstr "This text is not used in the shortcode."
+
+#: include/src/Core/Admin.php:456
+msgid "Настройки"
+msgstr "Settings"
+
+#: include/src/Core/Admin.php:464
+msgid "плагин доступности сайта для слабовидящих"
+msgstr "site accessibility plugin for visually impaired"
+
+#: include/src/Core/Admin.php:467
+msgid ""
+"Мы распространием этот плагин на бесплатной основе, но его написание, "
+"поддержка и распространение требует от нас вложения времени, сил и средств. "
+"Пожертвования пользователей могут позволить нам развивать и поддерживать "
+"плагин бесплатно.<br><br> Если плагин полезен для вас - пожалуйста "
+"рассмотрите возможность"
+msgstr ""
+"We will distribute this plugin free of charge, but writing, maintaining and "
+"distributing it requires an investment of time, effort and money from us. "
+"User donations can allow us to develop and maintain the plugin for free."
+"<br><br>If the plugin is useful to you - please consider"
+
+#: include/src/Core/Admin.php:470
+msgid "сделать пожертвование"
+msgstr "make a donation"
+
+#: include/src/Core/Admin.php:472
+msgid "Спасибо за использование Button visually impaired"
+msgstr "Thanks for using Button visually impaired"
+
+#: include/src/Core/Admin.php:478
+msgid "Полезные ссылки"
+msgstr "Useful links"
+
+#: include/src/Core/Admin.php:485
+msgid "Документация"
+msgstr "Documentation"
+
+#: include/src/Core/Admin.php:491
+msgid "Wordpress Форум"
+msgstr "Wordpress Forum"
+
+#: include/src/Core/Admin.php:497
+msgid "Github Форум"
+msgstr "Github Forum"
+
+#: include/src/Core/Admin.php:502
+msgid "Сделать пожертвование"
+msgstr "Make a donation"
+
+#: include/src/Core/Admin.php:509
+msgid "Обратная связь"
+msgstr "Feedback"
+
+#: include/src/Core/Admin.php:513
+msgid "Электронная почта"
+msgstr "Email"
+
+#: include/src/Core/Admin.php:516
+msgid "Написать письмо"
+msgstr "Write a letter"
+
+#: include/src/Core/Admin.php:520
+msgid "Форма обратной связи"
+msgstr "Feedback form"
+
+#: include/src/Core/Admin.php:523
+msgid "Перейти"
+msgstr "Go to"
+
+#: include/src/Core/Admin.php:566
+msgid "Значение указанной настройки (опции) нет."
+msgstr "The value of the specified setting (option) is not."
+
+#: include/src/Core/Admin.php:574
+msgid "Неправильное значение для поля"
+msgstr "Invalid value for the field"
+
+#: include/src/Core/Admin.php:609
+msgid "Цвет ссылки для переключения версии сайта"
+msgstr "Link color for switching site versions"
+
+#: include/src/Core/Admin.php:610
+msgid "Фон ссылки для переключения версии сайта"
+msgstr "Link background for switching site versions"
+
+#: include/src/Core/Admin.php:611
+msgid "Текст виджета ссылки для переключения версии сайта"
+msgstr "Link widget text for switching site version"
+
+#: include/src/Core/Bvi.php:48
+msgid "Версия сайта для слабовидящих"
+msgstr "Site version for visually impaired"
+
+#. Plugin Name of the plugin/theme
+msgid "Button visually impaired"
+msgstr "Button visually impaired"
+
+#. Plugin URI of the plugin/theme
+msgid "http://bvi.isvek.ru/"
+msgstr "http://bvi.isvek.ru/"
+
+#. Description of the plugin/theme
+msgid ""
+"Button visually impaired — это плагин, который автоматически изменяет версию "
+"вашего сайта для слабовидящих людей. Панель на сайте для слабовидящих дает "
+"возможность изменять цветовую гамму сайта, размеры шрифтов, синтезатор речи "
+"озвучит вслух изменения настроек. С помощью неё можно изменять функции "
+"сайта, которые удовлетворят потребностями людей с ограниченными "
+"возможностями."
+msgstr ""
+"Button visually impaired - is a plugin that automatically changes the "
+"visually impaired version of your site. The panel on the site for the "
+"visually impaired allows the color scheme of the site, font sizes, the "
+"synthesizer reads aloud settings changes. Thanks to it, you can use the "
+"functions of the site that meet the needs of people with disabilities."
+
+#. Author of the plugin/theme
+msgid "Veks"
+msgstr "Veks"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/veks"
+msgstr "https://github.com/veks"

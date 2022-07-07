@@ -1,0 +1,30 @@
+{
+  "name": "isvek/bvi",
+  "type": "wordpress-plugin",
+  "description": "Версия сайта для слабовидящих.",
+  "version": "2.1.0",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "vek",
+      "homepage": "https://bvi.isvek.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*"
+  },
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Bvi\\": "src"
+    },
+    "files": [
+      "../functions.php"
+    ]
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
